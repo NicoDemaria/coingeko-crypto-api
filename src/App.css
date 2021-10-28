@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.coin-image {
+  width: 1.5em;
+  height: 1.5em;
+  margin: .3em;
+}
+
+
+.symbolCoin {
+  text-transform: uppercase;
+}
